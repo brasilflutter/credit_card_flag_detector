@@ -1,0 +1,20 @@
+name: credit_card_flag_detector
+description: 'A package that detects credit card types based on the current credit card number patterns'
+version: 1.0.0
+homepage: https://flutterbrasil.com.br/
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=2.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  test: ^1.24.9
+
+flutter:
