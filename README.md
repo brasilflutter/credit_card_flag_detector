@@ -1,4 +1,4 @@
-# credit_card_flag_detector | Credit Card Type Detector
+# credit_card_flag_detector | Credit Card Flag Detector
 
 A Dart package that detects credit card types based on the current credit card number patterns
 
