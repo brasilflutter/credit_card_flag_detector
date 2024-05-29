@@ -26,7 +26,7 @@ String visaStr = '4647 7200 6779 1032';
 
 var types = CreditCardFlagDetector.detectCCType(visaStr);
 
-assert(types.contains(CreditCardFlag.visa()))
+assert(types.contains(CreditCardFlag.visa.creditCardFlag))
 ```
 
 **Check out the example app** in the [example](example) directory or the 'Example' tab on pub.dartlang.org for a more complete example using the BLoC pattern
