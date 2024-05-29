@@ -4,7 +4,7 @@ A Dart package that detects credit card types based on the current credit card n
 
 This package is inspired by [Credit Card Validator - Cholojuanito GitHub](https://github.com/cholojuanito/credit_card_validator)
 
-![Gif of the example app](example/example.gif)
+![example/example.gif](https://github.com/brasilflutter/credit_card_flag_detector/blob/main/example/example.gif)
 
 ## Installing
 
